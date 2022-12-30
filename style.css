@@ -1,0 +1,948 @@
+*{
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+header{
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.img2{
+    width: 200px;
+    height: 50px;
+}
+.bigDivImg3{
+    display: flex;
+    z-index: 5489484;
+}
+.img3{
+    width: 30px;
+    height: 50px;
+}
+.smallDivHeader1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 1250px;
+    z-index: 959595;
+}
+.ul1{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    z-index: 87848;
+}
+.ul1 li{
+    list-style-type: none;
+    font-family: 'Hanken Grotesk', sans-serif;
+    z-index: 4454545;
+}
+.divImg3{
+    margin-left: 7px;
+}
+.divH{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.divUl1{
+    display: flex;
+    justify-content: end;
+    text-align: center;
+    z-index: 121121;
+}
+.hungryH1{
+    font-family: 'Caramel', cursive;
+    text-align: center;
+}
+.waitH1{
+    font-size: 70px;
+    font-family: 'Monoton', cursive;
+    text-align: center;
+}
+.letH3{
+    text-align: center;
+}
+.divThisH4{
+    width: 150px;
+}
+.hr1{
+    height: 2px;
+    background-color: rgb(124, 124, 124);
+    border: 0;
+    width: 400px;
+    margin-top: 15px;
+}
+.bigDivThisH4{
+    display: flex;
+    width: 230px;
+}
+.thisH4{
+    font-family: 'Monoton', cursive;
+}
+.h14{
+    font-family: 'Monoton', cursive;
+}
+.firstButton{
+    width: 150px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: yellow;
+}
+.bigDivHeader2{
+    width: 1250px;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: relative;
+}
+.smallDivHeader2{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
+.hello1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+.hello2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+.img4{
+    width: 400px;
+    height: 400px;
+}
+.divPosition1 img{
+    width: 50px;
+    height: 100px;
+}
+.divPosition1{
+    position: absolute;
+    left: 100px;
+    top: 40px;
+}
+.divPosition2 img{
+    width: 70px;
+    height: 70px;
+}
+.divPosition2{
+    position: absolute;
+    right: 40%;
+    top: 30px;
+}
+.divPosition3 img{
+    width: 70px;
+    height: 70px;
+}
+.divPosition3{
+    position: absolute;
+    right: 47%;
+    top: 75%;
+}
+.divPosition4 img{
+    width: 50px;
+    height: 100px;
+}
+.divPosition4{
+    position: absolute;
+    right: 2%;
+    top: 70%;
+    z-index: 11;
+}
+.img5{
+    width: 300px;
+    height: 300px;
+    z-index: 96854;
+}
+.img6{
+    width: 300px;
+    height: 300px;
+    z-index: 654;
+}
+.img7{
+    width: 300px;
+    height: 300px;
+    z-index: 96854;
+}
+.chooseH1{
+    font-size: 40px;
+    font-family: 'Monoton', cursive;
+}
+.divLorem1{
+    width: 900px;
+}
+.divLorem1 h3{
+    text-align: center;
+}
+.bigDivSection1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.bigDivSection2{
+    display: flex;
+    justify-content: space-around;
+}
+.divImg1{
+    position: absolute;
+    right: 0;
+}
+.divLorem2{
+    width: 300px;
+    text-align: center;
+}
+.divLorems{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 110px;
+}
+.orderButton{
+    width: 150px;
+    height: 40px;
+    background-color: yellow;
+    border: 0;
+}
+.div1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.divImg1{
+    position: absolute;
+}
+.img1{
+    width: 400px;
+    height: 580px;
+}
+.divImg4{
+    z-index: 111;
+}
+.divPosition2{
+    z-index: 6656;
+}
+.divPosition2 img{
+    z-index: 654;
+}
+.hr1{
+    z-index: 8954;
+}
+.firstButton{
+    z-index: 65454;
+}
+.divFirstButton{
+    z-index: 6541;
+}
+.hungryH1{
+    z-index: 665454;
+}
+.divHungryH1{
+    z-index: 8544;
+}
+.divWaitH1{
+    z-index: 68541;
+}
+.divLetH3{
+    z-index: 638541;
+}
+.hello2{
+    z-index: 96854;
+}
+.divPosition1{
+    z-index: 8579652;
+}
+.divPosition3{
+    z-index: 63854;
+}
+.section1{
+   position: relative; 
+}
+.divImg8{
+    position: absolute;
+    width: 100%;
+    top: 50%;
+}
+.divImg8 img{
+    height: 100px;
+    width: 100%;
+}
+.divImgs{
+    z-index: 96854;
+}
+.divImg2{
+    z-index: 96385;
+}
+.divLorem3{
+    width: 700px;
+}
+.bigDivSection3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+.divLorem3 h4{
+    text-align: center;
+    color: rgb(49, 49, 49);
+}
+.upcomingH1{
+    font-size: 30px;
+    font-family: 'Monoton', cursive;
+    color: rgb(49, 49, 49);
+    text-align: center;
+}
+
+.divImgs{
+    display: flex;
+    align-items: center;
+}
+.div4{
+    width: 15px;
+    height: 15px;
+    background-color: gray;
+    border-radius: 50%;
+    margin: 5px;
+}
+.div2{
+    width: 15px;
+    height: 15px;
+    background-color: gray;
+    border-radius: 50%;
+    margin: 5px;
+}
+.div3{
+    width: 15px;
+    height: 15px;
+    background-color: gray;
+    border-radius: 50%;
+    margin: 5px;
+}
+.divDivs{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.divImg10{
+    width: 30%;
+}
+.divImg11{
+    width: 40%;
+}
+.divImg12{
+    width: 30%;
+}
+.divImg13{
+    width: 500px;
+    height: 425px;
+    background-image: url(img13.png);
+    background-size: cover;
+    margin-right: 25px;
+}
+.divMostH1{
+    width: 100px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.divMostH1 h1{
+    color: white;
+    font-size: 40px;
+}
+.divTryH3 h3{
+    color: white;
+    font-size: 30px;
+}
+.divTryH3{
+   margin-left: 30px;
+}
+.divMoreH1{
+    width: 300px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.divMoreH1 h1{
+    color: white;
+    font-size: 40px;
+}
+.divTryH1 h1{
+    color: white;
+}
+.divTryH1{
+   margin-left: 30px;
+}
+.divImg14{
+    width: 600px;
+    height: 200px;
+    background-image: url(img14.png);
+    background-size: cover;
+    margin-bottom: 25px;
+}
+.divImg15{
+    width: 600px;
+    height: 200px;
+    background-image: url(img15.png);
+    background-size: cover;
+}
+.bigDivSection4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+.divFreshH1{
+    width: 400px;
+    margin-top: 10px;
+    margin-left: 30px;
+}
+.divFreshH1 h1{
+    color: white;
+    font-size: 40px;
+}
+.inps{
+    width: 300px;
+    height: 30px;
+}
+.findButton{
+    width: 300px;
+    height: 35px;
+    background-color: yellow;
+    border: 0;
+    border-radius: 3px;
+    font-size: 10px;
+}
+.bookH1{
+    font-size: 40px;
+    font-family: 'Monoton', cursive ;
+    text-align: center;
+}
+.smallDivSection1{
+    display: flex;
+    width: 700px;
+    justify-content: space-around;
+}
+.bigDivSection5{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 300px;
+}
+.smallDivSection2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.marginInp{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer{
+    background-image: url(img15.png);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.img16{
+    width: 270px;
+    height: 50px;
+}
+.loremP{
+    width: 500px;
+    color: white;
+}
+.divImg16{
+    height: 150px;
+    display: flex;
+    align-items: center;
+}
+.img17{
+    width: 30px;
+    height: 40px;
+}
+.img18{
+    width: 40px;
+    height: 30px;
+}
+.mainP{
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.infoP{
+    color: white;
+    text-shadow: 2px 2px black;
+}
+.divImg17{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.divImg18{
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bigDivImg17{
+    display: flex;
+    flex-direction: column;
+    height: 90px;
+    justify-content: space-around;
+}
+.bigDivFooter1{
+    width: 1200px;
+}
+.smallDivFooter1{
+    display: flex;
+    justify-content: space-between;
+}
+.bigDivFooter2{
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 150px;
+}
+.endP{
+    color: white;
+}
+.endImg{
+    width: 150px;
+    height: 30px;
+}
+/* carousel */
+#container {
+    height: 100vh;
+    width: 100%;
+    box-sizing: border-box;
+} 
+#galleryContainer { 
+    height: 500px;
+    width: 100%;
+    background: transparent;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    position: relative;
+}  
+#galleryView {
+    height: 100vh;
+    width: 100%;
+    background: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}  
+#mainView {
+    height: 480px;
+    width: 480px;  
+    border-radius: 5px;
+    background-color:rgb(228, 228, 7);
+    transition: all 1s;  
+    z-index: 1;
+    margin: 5px;
+}
+  
+#mainView:hover {
+    transform: scale(1.2);
+    transition: all 1s;   
+}  
+#leftView {
+    height: 350px;
+    width: 30%;
+    opacity: 0.5;
+    border-radius: 5px;
+    background-color: rgb(238, 238, 1);
+    display: flex;
+    transition: all 1s;  
+    transform: skewy(5deg);
+}  
+#leftView:hover {
+    opacity: 1;
+    transition: all 1s;
+}  
+#rightView {
+    height: 350px;
+    width: 30%;
+    opacity: 0.5;
+    border-radius: 5px;
+    transform: skewy(-5deg);
+    transform-origin: top left;
+    background-color:rgb(238, 238, 1);
+    transition: all 1s;
+}
+#rightView:hover {
+    opacity: 1;
+    transition: all 1s;
+}
+#linkTag { 
+    cursor: pointer;
+    z-index: 1;
+    box-sizing: border-box;
+}
+/* img9 */
+.img9{
+    width: 100px;
+    height: 200px;
+}
+.divImg9{
+    position: absolute;
+    top: 14%;
+}
+@media screen and (max-width:1250px) {
+    .smallDivHeader1{
+        width: 900px;
+    }
+    .bigDivHeader2{
+        width: 900px;
+    }
+    .divPosition1{
+        left: 3%;
+    }
+    .divPosition4{
+        right: 0;
+        top: 80%;
+    }
+    .divPosition4 img{
+        width: 45px;
+        height: 80px;
+    }
+    .divImg13{
+        width: 300px;
+        height: 350px;
+    }
+    .divImg14{
+        width: 400px;
+        height: 162px;
+    }
+    .divImg15{
+        width: 400px;
+        height: 163px;
+    }
+    .bigDivFooter2{
+        width: 800px;
+    }
+    .bigDivFooter1{
+        width: 800px;
+    }
+}
+@media screen and (max-width:920px) {
+    .smallDivHeader1{
+        flex-direction: column;
+        height: 150px;
+    }
+    .bigDivImg3{
+        height: 80px;
+    }
+    .divUl1{
+        justify-content: center;
+    }
+    .bigDivHeader2{
+        flex-direction: column;
+        height: 800px;
+    }
+    .divPosition4{
+        right: 5%;
+    }
+    .smallDivHeader1{
+        width: 100%;
+    }
+    .bigDivHeader2{
+        width: 100%;
+    }
+    .divPosition1{
+        left: 10%;
+        top: 1%;
+    }
+    .divPosition1 img{
+        width: 40px;
+        height: 90px;
+    }
+    .divPosition2{
+        top: 1%;
+        right: 5%;
+    }
+    .divPosition3{
+        top: 40%;
+        left: 1%;
+    }
+    .bigDivSection2{
+        height: 500px;
+    }
+    .divLorem1{
+        width: 480px;
+    }
+    .img1{
+        height: 980px;
+    }
+    .img5{
+        width: 200px;
+        height: 200px;
+    }
+    .divLorem2{
+        width: 200px;
+    }
+    .img6{
+        width: 200px;
+        height: 200px;
+    }
+    .img7{
+        width: 200px;
+        height: 200px;
+    }
+    .img10{
+        height: 150px;
+    }
+    .img11{
+        height: 200px;
+    }
+    .img12{
+        height: 150px;
+    }
+    .divLorem3{
+        width: 480px;
+    }
+    .divImg13{
+        width: 200px;
+        height: 250px;
+    }
+    .divImg14{
+        width: 300px;
+        height: 112px;
+    }
+    .divImg15{
+        width: 300px;
+        height: 113px;
+    }
+    .divTryH3 h3{
+        font-size: 15px;
+    }
+    .divMostH1 h1{
+        font-size: 25px;
+    }
+    .divTryH1 h1{
+        font-size: 15px;
+    }
+    .divMoreH1 h1{
+        font-size: 25px;
+    }
+    .divFreshH1{
+        width: 150px;
+    }
+    .divFreshH1 h1{
+        font-size: 25px;
+    }
+    .smallDivFooter1{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .bigDivFooter2{
+        flex-direction: column;
+        height: 80px;
+    }
+    .loremP{
+        text-align: center;
+    }
+    .divImg16{
+        justify-content: center;
+    }
+    .bigDivFooter1{
+        width: 100%;
+    }
+    .bigDivFooter2{
+        width: 100%;
+    }
+    .divImg9{
+        top: 23%;
+    }
+}
+@media screen and (max-width: 730px)  {
+    .bigDivSection4{
+        height: 300px;
+    }
+    .bigDivSection2{
+        flex-direction: column;
+        height: 1500px;
+    }
+    .divImg8 img{
+        display: none;
+    }
+    .img5{
+        width: 280px;
+        height: 280px;
+    }
+    .divLorem2{
+        width: 280px;
+    }
+    .img6{
+        width: 280px;
+        height: 280px;
+    }
+    .img7{
+        width: 280px;
+        height: 280px;
+    }
+    .smallDivSection1{
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .inpMarg{
+        margin-top: 10px;
+    }
+    .divImg13{
+        width: 150px;
+        height: 200px;
+    }
+    .divMostH1{
+        margin-left: 0;
+    }
+    .divTryH3{
+        margin-left: 0;
+    }
+    .divImg14{
+        width: 200px;
+        height: 90px;
+    }
+    .divImg15{
+        width: 200px;
+        height: 90px;
+    }
+    .divMoreH1 h1{
+        font-size: 20px;
+    }
+    .divMoreH1{
+        width: 150px;
+        margin-left: 0;
+    }
+    .divTryH1{
+        margin-left: 0;
+    }
+    .divFreshH1{
+        margin-left: 0;
+    }
+    .loremP{
+        width: 350px;
+    }
+    .bigDivSection5{
+        height: 400px;
+    }
+    #mainView{
+        width: 400px;
+    }
+    .divImg9{
+        top: 19%;
+    }
+    .bigDivSection1{
+        z-index: 544659;
+    }
+}
+@media screen and (max-width: 530px) {
+    .img4{
+        width: 250px;
+        height: 250px;
+    }
+    .waitH1{
+        font-size: 20px;
+    }
+    .smallDivHeader2{
+        width: 100%;
+    }
+    .ul1{
+        flex-direction: column;
+        width: 100%;
+    }
+    .hr1{
+        width: 250px;
+    }
+    .letH3{
+        font-size: 10px;
+    }
+    .divPosition4{
+        right: 1%;
+        top: 50%;
+    }
+    .divPosition3{
+        top: 50%;
+    }
+    .divLorem1{
+        width: 270px;
+    }
+    .chooseH1{
+        font-size: 25px;
+    }
+    .img1{
+        height: 1027px;
+        width: 230px;
+    }
+    .img10{
+        height: 70px;
+    }
+    .img11{
+        height: 100px;
+    }
+    .img12{
+        height: 70px;
+    }
+    .divLorem3{
+        width: 280px;
+    }
+    .bigDivSection4{
+        flex-direction: column;
+        height: 600px;
+    }
+    .divImg13{
+        margin-right: 0;
+    }
+    .divImg14{
+        margin-top: 25px;
+    }
+    .inps{
+        width: 270px;
+    }
+    .findButton{
+        width: 270px;
+    }
+    .hello3{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .loremP{
+        width: 270px;
+    }
+    .divImg17{
+        width: 270px;
+    }
+    #mainView{
+        width: 210px;
+    }
+}
